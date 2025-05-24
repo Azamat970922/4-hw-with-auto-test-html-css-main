@@ -225,7 +225,7 @@ footer {
     .main-section .wrapper {
          display: flex;
          flex-direction: column-reverse;
-         align-items: baseline;
+         align-items: flex-start;
          gap: 60px;
     }
         /* 📍 Свойства для расположения элементов и отступа между ними */
@@ -246,8 +246,7 @@ footer {
         flex-direction: column;
         align-items: flex-start;
         padding: 60px 0;
-        
-    /* 📍 Внутренний отступ сверху и снизу */
+        /* 📍 Внутренний отступ сверху и снизу */
     }
     
 
