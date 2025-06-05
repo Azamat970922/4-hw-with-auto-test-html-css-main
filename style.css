@@ -42,6 +42,7 @@ header span {
 .main-section .wrapper {
     display: flex;
     align-items: center;
+    gap: 80px;
 }
 
 .text-wrapper {
