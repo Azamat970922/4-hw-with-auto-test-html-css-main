@@ -95,7 +95,7 @@ select:hover,
 
 .info-wrapper {
     display: flex;
-    gap: 50px;
+    gap: 50px !important;
 }
 
 .section-title {
