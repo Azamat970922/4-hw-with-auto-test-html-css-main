@@ -72,7 +72,7 @@ header span {
 .about-section .wrapper {
     display: flex;
     flex-direction: column;
-    gap: 60px;
+    gap: 50px;
 }
 
 select {
@@ -95,6 +95,7 @@ select:hover,
 
 .info-wrapper {
     display: flex;
+    gap: 50px;
 }
 
 .section-title {
@@ -288,6 +289,6 @@ footer {
     .about-section .wrapper,
     .info-wrapper {
         display: flex;
-        gap: 50px;
+        
         /* 📍 Отступ между изображением и блоком с текстом */
     }
