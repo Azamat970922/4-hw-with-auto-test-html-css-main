@@ -227,20 +227,20 @@ footer {
 
 
 
-.info-wrapper {
+    .info-wrapper {
 
-         flex-direction: column-reverse;
-         align-items: baseline;
-         gap: 60px;
-    }
+            flex-direction: column-reverse;
+            align-items: baseline;
+            gap: 60px;
+        }
 
 
-    /* .main-section .wrapper  {
+    .main-section .wrapper  {
          display: flex;
          flex-direction: column-reverse;
          align-items: baseline;
          gap: 60px;
-    } */
+    }
 
     .main-image {
         max-width: 100%;
@@ -258,8 +258,16 @@ footer {
         flex-direction: column;
         align-items: flex-start;
         padding: 60px 0;
+        
         /* 📍 Внутренний отступ сверху и снизу */
     }
+
+
+
+/* .about-section .wrapper {
+    gap: 60px
+} */
+
         /* 📍 Свойства для расположения элементов и отступа между ними */
 }
 
